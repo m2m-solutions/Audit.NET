@@ -11,7 +11,7 @@ using System.Text.Json.Serialization;
 namespace Audit.Core
 {
     /// <summary>
-    /// Represents the output of the audit process
+    /// Represents the output of the audit ProcessTrap
     /// </summary>
     public class AuditEvent : IAuditOutput
     {
